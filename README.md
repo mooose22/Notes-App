@@ -19,8 +19,10 @@ git clone https://github.com/mooose22/notes-app.git
 2. Create a virtual environment and activate it
 
 ```
-virtualenv venv
-venv/bin/activate
+virtualenv myenv
+
+source myenv/bin/activate
+
 ```
 
 3. Install the requirements
